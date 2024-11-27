@@ -1,0 +1,11 @@
+{
+  "name": "nlw-pocket-js-iniciante",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gelzieny/nlw-pocket-js-iniciante.git",
+  "author": "Gelzieny R. Martins <gelzieny@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^12.1.0"
+  }
+}

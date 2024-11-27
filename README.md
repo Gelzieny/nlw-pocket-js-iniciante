@@ -1,4 +1,4 @@
-# nlw-pocket-js-iniciante
+NLW Pocket: JavaScript (Iniciante)
 
 [ ] Criar metas   
 [ ] Listar metas    

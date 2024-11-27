@@ -1,6 +1,6 @@
 NLW Pocket: JavaScript (Iniciante)
 
-[ ] Criar metas   
+[X] Criar metas   
 [ ] Listar metas    
 [ ] Metas realizadas    
 [ ] Metas abertas    
